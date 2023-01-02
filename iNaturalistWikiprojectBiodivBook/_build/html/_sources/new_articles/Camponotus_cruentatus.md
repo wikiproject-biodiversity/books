@@ -6,4 +6,8 @@ Camponotus cruentatus
 ![Camponotus cruentatus](https://inaturalist-open-data.s3.amazonaws.com/photos/232335078/medium.jpeg)  
 ![Camponotus cruentatus](https://inaturalist-open-data.s3.amazonaws.com/photos/227560277/medium.jpeg)  
 ![Camponotus cruentatus](https://inaturalist-open-data.s3.amazonaws.com/photos/227560290/medium.jpeg)  
+![Camponotus cruentatus](https://inaturalist-open-data.s3.amazonaws.com/photos/227560305/medium.jpeg)  
+![Camponotus cruentatus](https://inaturalist-open-data.s3.amazonaws.com/photos/232335078/medium.jpeg)  
+![Camponotus cruentatus](https://inaturalist-open-data.s3.amazonaws.com/photos/227560277/medium.jpeg)  
+![Camponotus cruentatus](https://inaturalist-open-data.s3.amazonaws.com/photos/227560290/medium.jpeg)  
 ![Camponotus cruentatus](https://inaturalist-open-data.s3.amazonaws.com/photos/227560305/medium.jpeg)
