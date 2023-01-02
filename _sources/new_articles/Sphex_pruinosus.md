@@ -1,0 +1,25 @@
+
+Sphex pruinosus
+===============
+  
+[iNaturalist taxon id: 554235](https://www.inaturalist.org/taxa/554235)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554533/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554507/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554539/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554509/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554511/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554512/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554513/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554515/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554516/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554518/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554519/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554523/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554527/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554528/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554531/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554535/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554538/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554572/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554575/medium.jpeg)  
+![Sphex pruinosus](https://inaturalist-open-data.s3.amazonaws.com/photos/12554577/medium.jpeg)

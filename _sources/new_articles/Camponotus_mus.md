@@ -1,0 +1,25 @@
+
+Camponotus mus
+==============
+  
+[iNaturalist taxon id: 416827](https://www.inaturalist.org/taxa/416827)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/242845921/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/240871630/medium.jpeg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/240871691/medium.jpeg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/240871692/medium.jpeg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/191658449/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/191658395/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/191658499/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/164913550/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/164913573/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/164913602/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/242845921/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/240871630/medium.jpeg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/240871691/medium.jpeg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/240871692/medium.jpeg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/191658449/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/191658395/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/191658499/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/164913550/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/164913573/medium.jpg)  
+![Camponotus mus](https://inaturalist-open-data.s3.amazonaws.com/photos/164913602/medium.jpg)

@@ -1,0 +1,27 @@
+
+Psamatodes abydata
+==================
+  
+[iNaturalist taxon id: 228899](https://www.inaturalist.org/taxa/228899)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/248458231/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/245891610/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/208040854/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/206923139/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/145024987/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/144558632/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/93223667/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/93154250/medium.jpeg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/92055596/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/92056573/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/91875588/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/248458231/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/245891610/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/208040854/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/206923139/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/145024987/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/144558632/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/93223667/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/93154250/medium.jpeg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/92055596/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/92056573/medium.jpg)  
+![Psamatodes abydata](https://inaturalist-open-data.s3.amazonaws.com/photos/91875588/medium.jpg)

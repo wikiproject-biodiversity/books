@@ -1,0 +1,26 @@
+
+Neotamias dorsalis
+==================
+  
+[iNaturalist taxon id: 197809](https://www.inaturalist.org/taxa/197809)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102299/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102238/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102253/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102269/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102154/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99010000/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99009994/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102299/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102238/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102253/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102269/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102154/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99010000/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99009994/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102299/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102238/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102253/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102269/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99102154/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99010000/medium.jpeg)  
+![Neotamias dorsalis](https://inaturalist-open-data.s3.amazonaws.com/photos/99009994/medium.jpeg)

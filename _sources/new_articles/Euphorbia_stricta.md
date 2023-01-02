@@ -1,0 +1,27 @@
+
+Euphorbia stricta
+=================
+  
+[iNaturalist taxon id: 401781](https://www.inaturalist.org/taxa/401781)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/216600465/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/216600499/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/205122097/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/205122132/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/205122160/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/205122196/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/125819645/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/125819710/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/41534311/medium.jpg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/41534306/medium.jpg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/41534290/medium.jpg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/216600465/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/216600499/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/205122097/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/205122132/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/205122160/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/205122196/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/125819645/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/125819710/medium.jpeg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/41534311/medium.jpg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/41534306/medium.jpg)  
+![Euphorbia stricta](https://inaturalist-open-data.s3.amazonaws.com/photos/41534290/medium.jpg)

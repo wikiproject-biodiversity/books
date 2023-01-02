@@ -1,0 +1,25 @@
+
+Leptotarsus albistigma
+======================
+  
+[iNaturalist taxon id: 555993](https://www.inaturalist.org/taxa/555993)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798646/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798656/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798667/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798679/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798684/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020586/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020588/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020591/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020596/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020599/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798646/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798656/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798667/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798679/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/61798684/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020586/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020588/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020591/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020596/medium.jpeg)  
+![Leptotarsus albistigma](https://inaturalist-open-data.s3.amazonaws.com/photos/31020599/medium.jpeg)

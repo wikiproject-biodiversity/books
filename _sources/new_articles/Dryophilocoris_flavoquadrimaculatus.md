@@ -1,0 +1,25 @@
+
+Dryophilocoris flavoquadrimaculatus
+===================================
+  
+[iNaturalist taxon id: 194642](https://www.inaturalist.org/taxa/194642)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/137395416/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303603/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303540/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303542/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303091/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/137395416/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303603/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303540/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303542/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303091/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/137395416/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303603/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303540/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303542/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303091/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/137395416/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303603/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303540/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303542/medium.jpeg)  
+![Dryophilocoris flavoquadrimaculatus](https://inaturalist-open-data.s3.amazonaws.com/photos/103303091/medium.jpeg)

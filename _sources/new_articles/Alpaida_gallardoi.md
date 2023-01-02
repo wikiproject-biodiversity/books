@@ -1,0 +1,26 @@
+
+Alpaida gallardoi
+=================
+  
+[iNaturalist taxon id: 424525](https://www.inaturalist.org/taxa/424525)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/249001288/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/249001302/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430287/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430247/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430328/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/37265912/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/37266182/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/249001288/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/249001302/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430287/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430247/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430328/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/37265912/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/37266182/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/249001288/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/249001302/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430287/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430247/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/125430328/medium.jpg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/37265912/medium.jpeg)  
+![Alpaida gallardoi](https://inaturalist-open-data.s3.amazonaws.com/photos/37266182/medium.jpeg)

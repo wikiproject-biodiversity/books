@@ -1,0 +1,25 @@
+
+Socca pustulosa
+===============
+  
+[iNaturalist taxon id: 1430099](https://www.inaturalist.org/taxa/1430099)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/52446444/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/13433054/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/13160176/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/11310496/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/1671428/medium.jpg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/52446444/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/13433054/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/13160176/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/11310496/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/1671428/medium.jpg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/52446444/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/13433054/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/13160176/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/11310496/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/1671428/medium.jpg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/52446444/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/13433054/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/13160176/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/11310496/medium.jpeg)  
+![Socca pustulosa](https://inaturalist-open-data.s3.amazonaws.com/photos/1671428/medium.jpg)
