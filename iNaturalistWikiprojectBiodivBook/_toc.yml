@@ -5,9 +5,10 @@ parts:
   - file: new_articles/Coranus_woodroffei.md
   - file: new_articles/Selatosomus_gravidus.md
   - file: new_articles/Strymon_lucena.md
+  - file: new_articles/Pseudoxenetus_regalis.md
   - file: new_articles/Odo_vittatus.md
-  - file: new_articles/Polyommatus_coridon.md
   - file: new_articles/Aculepeira_travassosi.md
+  - file: new_articles/Deltanus_texanus.md
   - file: new_articles/Euciodes_suturalis.md
   - file: new_articles/Erythrodiplax_kimminsi.md
   - file: new_articles/Achlyodes_pallida.md
@@ -35,37 +36,41 @@ parts:
   - file: new_articles/Chinamiris_indeclivis.md
   - file: new_articles/Taeniopoda_tamaulipensis.md
   - file: new_articles/Dianthus_hyssopifolius.md
-  - file: new_articles/Curruca_crassirostris.md
+  - file: "new_articles/Salix_\xD7_sepulcralis.md"
   - file: new_articles/Solanum_amygdalifolium.md
   - file: new_articles/Pontederia_azurea.md
   - file: new_articles/Platystele_posadarum.md
+  - file: new_articles/Phytomyza_gymnostoma.md
   - file: new_articles/Begonia_lehmannii.md
   - file: new_articles/Pentaglottis_sempervirens.md
   - file: new_articles/Cacephatus_vates.md
   - file: new_articles/Callistege_mi.md
   - file: new_articles/Hermetia_relicta.md
   - file: new_articles/Lobivia_bruchii.md
+  - file: new_articles/Puccinia_urticata.md
   - file: new_articles/Ludwigia_leptocarpa.md
   - file: new_articles/Odontomachus_chelifer.md
   - file: new_articles/Ctenophora_pectinicornis.md
-  - file: new_articles/Argya_striata.md
+  - file: new_articles/Dubioniscus_marmoratus.md
   - file: new_articles/Polytrichum_formosum.md
+  - file: new_articles/Asystasia_intrusa.md
   - file: new_articles/Hypochaeris_albiflora.md
   - file: new_articles/Antrodia_heteromorpha.md
   - file: new_articles/Heterogaster_cathariae.md
-  - file: new_articles/Deois_flavopicta.md
   - file: new_articles/Sida_abutifolia.md
   - file: new_articles/Serjania_meridionalis.md
   - file: new_articles/Hylesia_umbratula.md
+  - file: new_articles/Aceria_parulmi.md
   - file: new_articles/Trichocereus_candicans.md
   - file: new_articles/Lantana_canescens.md
   - file: new_articles/Trogomorpha_trogiformis.md
+  - file: new_articles/Desmia_maculalis.md
   - file: new_articles/Jacobaea_alpina.md
   - file: new_articles/Polyommatus_vanensis.md
-  - file: new_articles/Neotamias_dorsalis.md
   - file: new_articles/Lycium_cestroides.md
   - file: new_articles/Ircinia_campana.md
   - file: new_articles/Rhynocoris_annulatus.md
+  - file: new_articles/Cupiennius_coccineus.md
   - file: new_articles/Aceria_exigua.md
   - file: new_articles/Opisthoxia_miletia.md
   - file: new_articles/Abrochia_fulvisphex.md
@@ -77,12 +82,13 @@ parts:
   - file: new_articles/Begonia_silverstonei.md
   - file: new_articles/Armadillidium_versicolor.md
   - file: new_articles/Hypselonotus_interruptus.md
+  - file: new_articles/Aulonia_albimana.md
   - file: new_articles/Cyclosia_midama.md
   - file: new_articles/Pepsis_mildei.md
   - file: new_articles/Parapolystichum_glabellum.md
   - file: new_articles/Caranx_bartholomaei.md
+  - file: new_articles/Physa_acuta.md
   - file: new_articles/Conocephalus_albescens.md
-  - file: new_articles/Tolmerus_atricapillus.md
   - file: new_articles/Aristocypha_quadrimaculata.md
   - file: new_articles/Pachliopta_aristolochiae.md
   - file: new_articles/Hemipholiota_populnea.md
@@ -101,50 +107,56 @@ parts:
   - file: new_articles/Turnera_sidoides.md
   - file: new_articles/Dasymutilla_klugii.md
   - file: new_articles/Pseudoleon_superbus.md
+  - file: new_articles/Nylanderia_flavipes.md
+  - file: new_articles/Entomobrya_multifasciata.md
   - file: new_articles/Favolus_brasiliensis.md
   - file: new_articles/Hexagonia_hydnoides.md
   - file: new_articles/Plinachtus_imitator.md
-  - file: new_articles/Chlorestes_eliciae.md
   - file: new_articles/Curinus_coeruleus.md
+  - file: new_articles/Planicephalus.md
   - file: new_articles/Valeriana_tripteris.md
   - file: new_articles/Adeloneivaia_apicalis.md
-  - file: new_articles/Eurema_andersoni.md
   - file: new_articles/Rosa_subcanina.md
-  - file: new_articles/Lithobates_catesbeianus.md
-  - file: new_articles/Vachellia_farnesiana.md
   - file: new_articles/Leucochrysa_explorata.md
+  - file: new_articles/Raeta_plicatella.md
   - file: new_articles/Ropalidia_cyathiformis.md
   - file: new_articles/Sipanea_pratensis.md
   - file: new_articles/Aristolochia_cordiflora.md
   - file: new_articles/Chrysanthia_geniculata.md
+  - file: new_articles/Prasocuris_marginella.md
   - file: new_articles/Sphex_pruinosus.md
   - file: new_articles/Orochelidon_murina.md
+  - file: new_articles/Phyllocnistis_magnoliella.md
   - file: new_articles/Diloboderus_abderus.md
+  - file: new_articles/Phthiacnemia_picta.md
   - file: new_articles/Hydaticus_bimarginatus.md
   - file: new_articles/Lactarius_rubidus.md
-  - file: new_articles/Neotamias_speciosus.md
+  - file: new_articles/Gomphrena_serrata.md
   - file: new_articles/Heliophanus_auratus.md
   - file: new_articles/Dolichandra_cynanchoides.md
   - file: new_articles/Hydrobates_furcatus.md
   - file: new_articles/Richardia_grandiflora.md
+  - file: new_articles/Filago_germanica.md
   - file: new_articles/Xyleus_discoideus.md
   - file: new_articles/Epidendrum_jamiesonis.md
-  - file: new_articles/Sporathraupis_cyanocephala.md
   - file: new_articles/Hygrocybe_acutoconica.md
   - file: new_articles/Pellaea_ovata.md
   - file: new_articles/Argya_squamiceps.md
   - file: new_articles/Salticus_mutabilis.md
   - file: new_articles/Hypseocharis_pimpinellifolia.md
   - file: new_articles/Bradybatus_fallax.md
-  - file: new_articles/Gentiana_terglouensis.md
   - file: new_articles/Croton_urucurana.md
   - file: new_articles/Nimbopsocus_australis.md
   - file: new_articles/Aspidisca_cicada.md
+  - file: new_articles/Otospermophilus_beecheyi.md
   - file: new_articles/Hypanus_longus.md
   - file: new_articles/Elzunia_pavonii.md
+  - file: new_articles/Pseudoedophrys_hilleri.md
   - file: new_articles/Pharia_pyramidata.md
   - file: new_articles/Acalypha_monostachya.md
+  - file: new_articles/Jikradia_melanota.md
   - file: new_articles/Trimezia_gracilis.md
+  - file: new_articles/Entomobrya_albocincta.md
   - file: new_articles/Parmotrema_reticulatum.md
   - file: new_articles/Cavendishia_angustifolia.md
   - file: new_articles/Eucallista_purpurata.md
@@ -152,21 +164,23 @@ parts:
   - file: new_articles/Martynia_annua.md
   - file: new_articles/Notonecta_viridis.md
   - file: new_articles/Neolema_abbreviata.md
+  - file: new_articles/Cantharis_flavilabris.md
   - file: new_articles/Bergia_puertoricense.md
   - file: new_articles/Mimophytum_alienum.md
+  - file: new_articles/Neoaliturus_tenellus.md
   - file: new_articles/Nascus_phocus.md
   - file: new_articles/Chiasmoneura_fenestrata.md
   - file: new_articles/Macleania_rupestris.md
   - file: new_articles/Myopa_fasciata.md
   - file: new_articles/Anisota_pellucida.md
   - file: new_articles/Danosoma_brevicorne.md
-  - file: new_articles/Ochthoeca_diadema.md
   - file: new_articles/Begonia_maurandiae.md
-  - file: new_articles/Copaxa_denhezi.md
+  - file: new_articles/Cladonia_chlorophaea.md
   - file: new_articles/Senecio_virens.md
   - file: new_articles/Hypolycaena_kina.md
   - file: new_articles/Condylostylus_longicornis.md
   - file: new_articles/Zonamegilla.md
+  - file: new_articles/Tellima_grandiflora.md
   - file: new_articles/Verbena_pulchella.md
   - file: new_articles/Opisthoplatus_prospicuus.md
   - file: new_articles/Leucauge_fastigata.md
@@ -176,7 +190,6 @@ parts:
   - file: new_articles/Maxillaria_aurea.md
   - file: new_articles/Conocephalus_longipes.md
   - file: new_articles/Epiplema_albipennaria.md
-  - file: new_articles/Sapajus_apella.md
   - file: new_articles/Magava_multilinea.md
   - file: new_articles/Andrena_nitida.md
   - file: new_articles/Automeris_banus.md
@@ -186,6 +199,7 @@ parts:
   - file: new_articles/Dysbiota_peregrina.md
   - file: new_articles/Technomyrmex_jocosus.md
   - file: new_articles/Eriothrix_rufomaculata.md
+  - file: new_articles/Sphrageidus_similis.md
   - file: new_articles/Tenthredo_segmentaria.md
   - file: new_articles/Cicindela_haemorrhagica.md
   - file: new_articles/Lamyropsis_cynaroides.md
@@ -197,7 +211,6 @@ parts:
   - file: new_articles/Discobola_dohrni.md
   - file: new_articles/Sphaerocoris_testudogrisea.md
   - file: new_articles/Dynamine_tithia.md
-  - file: new_articles/Saguinus_nigricollis.md
   - file: new_articles/Sibinia_pellucens.md
   - file: new_articles/Cethosia_mahratta.md
   - file: new_articles/Deltote_pygarga.md
@@ -205,16 +218,20 @@ parts:
   - file: new_articles/Hersiliola_simoni.md
   - file: new_articles/Neocheritra_fabronia.md
   - file: new_articles/Aristocypha_trifasciata.md
+  - file: new_articles/Myrmaplata_plataleoides.md
+  - file: new_articles/Condylostylus_comatus.md
   - file: new_articles/Lutjanus_mahogoni.md
   - file: new_articles/Lantana_fucata.md
   - file: new_articles/Phelotrupes_substriatellus.md
   - file: new_articles/Kleinothraupis_atropileus.md
   - file: new_articles/Frangula_rupestris.md
   - file: new_articles/Tournefortia_gnaphalodes.md
+  - file: new_articles/Trioza_urticae.md
   - file: new_articles/Espeletia_grandiflora.md
   - file: new_articles/Noctuana_haematospila.md
   - file: new_articles/Campanula_cespitosa.md
   - file: new_articles/Tanyptera_atrata.md
+  - file: new_articles/Cantharis_decipiens.md
   - file: new_articles/Maxillaria_fragrans.md
   - file: new_articles/Odontotarsus_purpureolineatus.md
   - file: new_articles/Piper_peltatum.md
@@ -222,11 +239,12 @@ parts:
   - file: new_articles/Hydrobates_homochroa.md
   - file: new_articles/Pimelodus_maculatus.md
   - file: new_articles/Aedes_albifasciatus.md
+  - file: new_articles/Maxillaria_embreei.md
   - file: new_articles/Colletia_paradoxa.md
+  - file: new_articles/Aphis_illinoisensis.md
   - file: new_articles/Periandra_mediterranea.md
   - file: new_articles/Argynnis_adippe.md
   - file: new_articles/Thaumasia_argenteonotata.md
-  - file: new_articles/Streptopelia_chinensis.md
   - file: new_articles/Indigofera_miniata.md
   - file: new_articles/Gerris_odontogaster.md
   - file: new_articles/Eriphia_smithii.md
@@ -234,6 +252,7 @@ parts:
   - file: new_articles/Diadasia_tropicalis.md
   - file: new_articles/Arrhythmica_semifusca.md
   - file: new_articles/Apoica_gelida.md
+  - file: new_articles/Stereum_complicatum.md
   - file: new_articles/Jaborosa_runcinata.md
   - file: new_articles/Poekilloptera_phalaenoides.md
   - file: new_articles/Liparus_glabrirostris.md
@@ -241,6 +260,7 @@ parts:
   - file: new_articles/Perola_brumalis.md
   - file: new_articles/Benhamyia_apicalis.md
   - file: new_articles/Dolichosomastis_leucogrammica.md
+  - file: new_articles/Phragmidium_rosae-multiflorae.md
   - file: new_articles/Austroeupatorium_inulifolium.md
   - file: new_articles/Ctenophora_flaveolata.md
   - file: new_articles/Knautia_dipsacifolia.md
@@ -252,6 +272,7 @@ parts:
   - file: new_articles/Hemipenthes_velutina.md
   - file: new_articles/Abia_fasciata.md
   - file: new_articles/Stereum_rugosum.md
+  - file: new_articles/Caryomyia_stellata.md
   - file: new_articles/Nassauvia_magellanica.md
   - file: new_articles/Palicourea_deflexa.md
   - file: new_articles/Schinia_sordidus.md
@@ -260,12 +281,13 @@ parts:
   - file: new_articles/Pentanema_squarrosum.md
   - file: new_articles/Rhinella_alata.md
   - file: new_articles/Platycnemis_dealbata.md
-  - file: new_articles/Mycosarcoma_maydis.md
+  - file: new_articles/Pholiotina_rugosa.md
   - file: new_articles/Miconia_conospeciosa.md
-  - file: new_articles/Urile_pelagicus.md
   - file: new_articles/Sibovia_sagata.md
   - file: new_articles/Grindelia_pulchella.md
   - file: new_articles/Tarenaya_longicarpa.md
+  - file: new_articles/Camponotus_ager.md
+  - file: new_articles/Hesperus_apicialis.md
   - file: new_articles/Linum_viscosum.md
   - file: new_articles/Pachysylvia_decurtata.md
   - file: new_articles/Rivellia_syngenesiae.md
@@ -274,23 +296,26 @@ parts:
   - file: new_articles/Anomala_dubia.md
   - file: new_articles/Noticastrum_diffusum.md
   - file: new_articles/Prociphilus_xylostei.md
-  - file: new_articles/Cornu_aspersum.md
   - file: new_articles/Pseudagrion_hypermelas.md
   - file: new_articles/Meteorus_pulchricornis.md
   - file: new_articles/Strangalia_attenuata.md
+  - file: new_articles/Pilodiplosis_helianthibulla.md
   - file: new_articles/Phlugis_ocraceovittata.md
   - file: new_articles/Dythemis_nigra.md
   - file: new_articles/Pheidole_bilimeki.md
   - file: new_articles/Cixiosoma_bonaerense.md
   - file: new_articles/Scutellaria_seleriana.md
+  - file: new_articles/Lithacodia_musta.md
   - file: new_articles/Paulinia_acuminata.md
   - file: new_articles/Chrysomela_cuprea.md
   - file: new_articles/Parasa_imitata.md
+  - file: new_articles/Draeculacephala_inscripta.md
   - file: new_articles/Mutisia_kurtzii.md
   - file: new_articles/Orobanche_gracilis.md
   - file: new_articles/Meromacrus_currani.md
   - file: new_articles/Plega_hagenella.md
   - file: new_articles/Athyma_inara.md
+  - file: new_articles/Encalypta_streptocarpa.md
   - file: new_articles/Pitcairnia_kniphofioides.md
   - file: new_articles/Aceria_echii.md
   - file: new_articles/Xerula_pudens.md
@@ -300,22 +325,25 @@ parts:
   - file: new_articles/Dicliptera_squarrosa.md
   - file: new_articles/Silpha_obscura.md
   - file: new_articles/Sericoptera_mahometaria.md
+  - file: new_articles/Agromyza_vockerothi.md
   - file: new_articles/Anemonastrum_narcissiflorum.md
+  - file: new_articles/Solanum_acerifolium.md
   - file: new_articles/Carduus_defloratus.md
   - file: new_articles/Pteromalus_puparum.md
   - file: new_articles/Agriocnemis_lacteola.md
   - file: new_articles/Camponotus_pellarius.md
+  - file: new_articles/Mummenhoffia_alliacea.md
   - file: new_articles/Leistes_superciliaris.md
   - file: new_articles/Ancala_fasciata.md
   - file: new_articles/Navomorpha_lineata.md
   - file: new_articles/Araniella_alpica.md
   - file: new_articles/Lycoperdon_utriforme.md
   - file: new_articles/Agasta_formosa.md
+  - file: new_articles/Orsilochides_stictica.md
   - file: new_articles/Pygoda_ramosa.md
   - file: new_articles/Euphaedra_lutescens.md
   - file: new_articles/Agrochola_lunosa.md
   - file: new_articles/Gaultheria_pumila.md
-  - file: new_articles/Salpichlaena_volubilis.md
   - file: new_articles/Idaea_intermedia.md
   - file: new_articles/Psyllobora_bicongregata.md
   - file: new_articles/Rhinanthus_freynii.md
@@ -324,6 +352,7 @@ parts:
   - file: new_articles/Leptocerus_tineiformis.md
   - file: new_articles/Cupiennius_getazi.md
   - file: new_articles/Homalodisca_insolita.md
+  - file: new_articles/Chlorophyllum_olivieri.md
   - file: new_articles/Hoplias_argentinensis.md
   - file: new_articles/Pholadidea_suteri.md
   - file: new_articles/Cymaenes_odilia.md
@@ -332,21 +361,22 @@ parts:
   - file: new_articles/Bulimulus_bonariensis.md
   - file: new_articles/Celerena_divisa.md
   - file: new_articles/Ctenicera_pectinicornis.md
-  - file: new_articles/Sporophila_angolensis.md
   - file: new_articles/Silvetia_compressa.md
-  - file: new_articles/Stellaria_aquatica.md
   - file: new_articles/Ichneumon_lotatorius.md
   - file: new_articles/Arvelius_albopunctatus.md
   - file: new_articles/Muehlenbeckia_sagittifolia.md
+  - file: new_articles/Syntrichia_montana.md
   - file: new_articles/Tabernaemontana_donnell-smithii.md
   - file: new_articles/Modiola_caroliniana.md
+  - file: new_articles/Ilexia_intractata.md
+  - file: new_articles/Acanthostracion_polygonium.md
   - file: new_articles/Aiolochroia_crassa.md
   - file: new_articles/Semaeopus_trophinus.md
   - file: new_articles/Trametes_coccinea.md
   - file: new_articles/Mairetis_microsperma.md
   - file: new_articles/Notopleura_epiphytica.md
   - file: new_articles/Solidago_chilensis.md
-  - file: new_articles/Oudemansiella_radicata.md
+  - file: new_articles/Glossonotus_acuminatus.md
   - file: new_articles/Pedalium_murex.md
   - file: new_articles/Eumaeus_childrenae.md
   - file: new_articles/Phyteuma_nigrum.md
@@ -354,19 +384,23 @@ parts:
   - file: new_articles/Minosia_simeonica.md
   - file: new_articles/Satyrotaygetis_satyrina.md
   - file: new_articles/Selidosema_taeniolaria.md
+  - file: new_articles/Stenodema_trispinosum.md
   - file: new_articles/Cigaritis_epargyros.md
   - file: new_articles/Camponotus_juliae.md
   - file: new_articles/Pentanema_verbascifolium.md
   - file: new_articles/Crepis_aurea.md
-  - file: new_articles/Chlorestes_julie.md
   - file: new_articles/Psamatodes_abydata.md
   - file: new_articles/Earliella_scabrosa.md
   - file: new_articles/Cipuropsis_capituligera.md
   - file: new_articles/Pedicularis_kerneri.md
   - file: new_articles/Coccothraustes_vespertinus.md
   - file: new_articles/Papilio_demetrius.md
+  - file: new_articles/Naupactus_peregrinus.md
+  - file: new_articles/Cecropia_glaziovii.md
   - file: new_articles/Cucullia_verbasci.md
   - file: new_articles/Pluteus_phlebophorus.md
+  - file: new_articles/Megapitaria_maculata.md
+  - file: new_articles/Eutrapela_clemataria.md
   - file: new_articles/Chrysoma_pauciflosculosa.md
   - file: new_articles/Bidens_subalternans.md
   - file: new_articles/Nephilingis_cruentata.md
@@ -374,8 +408,8 @@ parts:
   - file: new_articles/Hyla_squirella.md
   - file: new_articles/Renealmia_cernua.md
   - file: new_articles/Stachys_cretica.md
-  - file: new_articles/Rohana_parisatis.md
   - file: new_articles/Caroxylon_tetrandrum.md
+  - file: new_articles/Belonocnema_kinseyi.md
   - file: new_articles/Holcostethus_sphacelatus.md
   - file: new_articles/Heliotropium_ramosissimum.md
   - file: new_articles/Jacobaea_carniolica.md
@@ -386,18 +420,23 @@ parts:
   - file: new_articles/Raoulia_grandiflora.md
   - file: new_articles/Senegalia_bonariensis.md
   - file: new_articles/Aristolochia_triangularis.md
+  - file: new_articles/Protoparmeliopsis_muralis.md
   - file: new_articles/Ypthima_newara.md
+  - file: new_articles/Hesperomyces_harmoniae.md
+  - file: new_articles/Macrosaccus_robiniella.md
   - file: new_articles/Altinote_neleus.md
   - file: new_articles/Decticus_annaelisae.md
   - file: new_articles/Xenodon_dorbignyi.md
   - file: new_articles/Taphrina_sadebeckii.md
   - file: new_articles/Coraliomela_quadrimaculata.md
   - file: new_articles/Dendroalsia_abietina.md
+  - file: new_articles/Illosporiopsis_christiansenii.md
   - file: new_articles/Dysdercus_albofasciatus.md
   - file: new_articles/Odontolabis_burmeisteri.md
   - file: new_articles/Tenthredo_mandibularis.md
   - file: new_articles/Codonorchis_lessonii.md
   - file: new_articles/Inocybe_lanuginosa.md
+  - file: new_articles/Euthochtha_galeator.md
   - file: new_articles/Veronica_urticifolia.md
   - file: new_articles/Erythrostemon_gilliesii.md
   - file: new_articles/Amblyscartidia_incredibilis.md
@@ -406,15 +445,19 @@ parts:
   - file: new_articles/Ampelaster_carolinianus.md
   - file: new_articles/Pavonia_sepium.md
   - file: new_articles/Traganum_moquinii.md
+  - file: new_articles/Eriogonum_polycladon.md
   - file: new_articles/Euparyphus_patagius.md
+  - file: new_articles/Gyponana_gladia.md
   - file: new_articles/Eucnide_lobata.md
   - file: new_articles/Camponotus_mus.md
-  - file: new_articles/Pontederia_crassipes.md
+  - file: "new_articles/Silene_\xD7_hampeana.md"
+  - file: new_articles/Caloptilia_triadicae.md
   - file: new_articles/Byctiscus_betulae.md
   - file: new_articles/Protaetia_angustata.md
+  - file: new_articles/Epifagus_virginiana.md
+  - file: new_articles/Exidia_crenata.md
   - file: new_articles/Cyanopepla_orbona.md
   - file: new_articles/Balboana_tibialis.md
-  - file: new_articles/Maxillaria_montezumae.md
   - file: new_articles/Silis_ruficollis.md
   - file: new_articles/Lea_floridensis.md
   - file: new_articles/Psychoda_alternicula.md
@@ -426,20 +469,22 @@ parts:
   - file: new_articles/Elytraria_bromoides.md
   - file: new_articles/Hamigera_hamigera.md
   - file: new_articles/Ricciocarpos_natans.md
+  - file: new_articles/Draeculacephala_balli.md
   - file: new_articles/Heraclia_geryon.md
   - file: new_articles/Belonocnema_treatae.md
   - file: new_articles/Pygochelidon_cyanoleuca.md
   - file: new_articles/Chamaecrista_greggii.md
-  - file: new_articles/Dendroblatta_sobrina.md
   - file: new_articles/Anophelepis_telesphorus.md
   - file: new_articles/Socca_pustulosa.md
   - file: new_articles/Dendrogyra_cylindrus.md
+  - file: new_articles/Perispasta_caeculalis.md
   - file: new_articles/Zeltus_amasa.md
   - file: new_articles/Oxyagrion_terminale.md
   - file: new_articles/Galium_hypocarpium.md
   - file: new_articles/Lycianthes_asarifolia.md
   - file: new_articles/Trixis_praestans.md
   - file: new_articles/Euphorbia_stricta.md
+  - file: new_articles/Philonotis_fontana.md
   - file: new_articles/Tamonea_spicata.md
   - file: new_articles/Cirrula_hians.md
   - file: new_articles/Oxypetalum_solanoides.md
@@ -449,14 +494,17 @@ parts:
   - file: new_articles/Carabus_banonii.md
   - file: new_articles/Indigofera_sphaerocarpa.md
   - file: new_articles/Chauliognathus_flavipes.md
+  - file: new_articles/Azurina_multilineata.md
   - file: new_articles/Lotus_lancerottensis.md
   - file: new_articles/Trametes_cinnabarina.md
   - file: new_articles/Cycloneda_emarginata.md
   - file: new_articles/Crotalaria_pumila.md
+  - file: new_articles/Malacosoma_americana.md
   - file: new_articles/Diodonopsis_anachaeta.md
   - file: new_articles/Hydrobates_melania.md
   - file: new_articles/Leiobunum_limbatum.md
   - file: new_articles/Antiblemma_sterope.md
+  - file: new_articles/Dicyrtomina_saundersi.md
   - file: new_articles/Anthopleura_hermaphroditica.md
   - file: new_articles/Urbanus_esmeraldus.md
   - file: new_articles/Aconitum_vulparia.md
@@ -472,22 +520,26 @@ parts:
   - file: new_articles/Araujia_angustifolia.md
   - file: new_articles/Heteropsis_vola.md
   - file: new_articles/Tillandsia_pastensis.md
+  - file: new_articles/Telamona_tarda.md
   - file: new_articles/Dascillus_cervinus.md
   - file: new_articles/Heliocypha_perforata.md
   - file: new_articles/Rhopalapion_longirostre.md
   - file: new_articles/Theclinesthes_serpentata.md
   - file: new_articles/Omophoita_personata.md
   - file: new_articles/Bufotes_sitibundus.md
+  - file: new_articles/Sardinidion_blackwalli.md
   - file: new_articles/Puya_asplundii.md
   - file: new_articles/Drimia_numidica.md
+  - file: new_articles/Physcia_adscendens.md
   - file: new_articles/Egregia_menziesii.md
   - file: new_articles/Pseudocyphellaria_dissimilis.md
   - file: new_articles/Leptodeira_rhombifera.md
   - file: new_articles/Baccharis_spicata.md
   - file: new_articles/Copestylum_fraudulentum.md
+  - file: new_articles/Attulus_fasciger.md
   - file: new_articles/Acanthostyles_buniifolius.md
   - file: new_articles/Epinotia_hopkinsana.md
-  - file: new_articles/Curruca_melanocephala.md
+  - file: new_articles/Ricasolia_virens.md
   - file: new_articles/Akis_acuminata.md
   - file: new_articles/Pyrophaena_rosarum.md
   - file: new_articles/Anaplecta_fallax.md
@@ -500,6 +552,7 @@ parts:
   - file: new_articles/Pseudofumaria_lutea.md
   - file: new_articles/Harpactea_hombergi.md
   - file: new_articles/Gymnopilus_penetrans.md
+  - file: new_articles/Disholcaspis_cinerosa.md
   - file: new_articles/Malvastrum_americanum.md
   - file: new_articles/Segestria_bavarica.md
   - file: new_articles/Emesis_russula.md
@@ -510,11 +563,11 @@ parts:
   - file: new_articles/Aplysina_cauliformis.md
   - file: new_articles/Melochia_pyramidata.md
   - file: new_articles/Euptoieta_hortensia.md
-  - file: new_articles/Berberis_aquifolium.md
   - file: new_articles/Anoplodera_sexguttata.md
   - file: new_articles/Mnium_hornum.md
   - file: new_articles/Sapygina_decemguttata.md
   - file: new_articles/Dryobates_arizonae.md
+  - file: new_articles/Hortensia_similis.md
   - file: new_articles/Sarcomphalus_joazeiro.md
   - file: new_articles/Tabanus_atratus.md
   - file: new_articles/Chlorophanus_viridis.md
@@ -538,23 +591,22 @@ parts:
   - file: new_articles/Phintelloides_versicolor.md
   - file: new_articles/Tityus_ocelote.md
   - file: new_articles/Chalcostephia_flavifrons.md
-  - file: new_articles/Andinoacara_coeruleopunctatus.md
   - file: new_articles/Metacantharis_discoidea.md
   - file: new_articles/Drassodes_lapidosus.md
   - file: new_articles/Anthaxia_helvetica.md
+  - file: new_articles/Tharsalea_arota.md
   - file: new_articles/Aceria_macrochela.md
+  - file: new_articles/Exomala_orientalis.md
   - file: new_articles/Chloraea_membranacea.md
   - file: new_articles/Philophyllia_guttulata.md
   - file: new_articles/Coenonympha_california.md
+  - file: new_articles/Amobia_signata.md
+  - file: new_articles/Corythalia_argentinensis.md
   - file: new_articles/Leptotarsus_zeylandiae.md
-  - file: new_articles/Neomonachus_schauinslandi.md
   - file: new_articles/Urvillea_uniloba.md
   - file: new_articles/Acraea_serena.md
   - file: new_articles/Periophthalmus_waltoni.md
-  - file: new_articles/Pachysylvia_aurantiifrons.md
   - file: new_articles/Saxifraga_caesia.md
-  - file: new_articles/Limacellopsis_guttata.md
-  - file: new_articles/Holcosus_festivus.md
   - file: new_articles/Citharexylum_montevidense.md
   - file: new_articles/Metastelma_barbigerum.md
   - file: new_articles/Limonium_cancellatum.md
@@ -566,15 +618,20 @@ parts:
   - file: new_articles/Androsace_chamaejasme.md
   - file: new_articles/Hadrodemus_m-flavum.md
   - file: new_articles/Trametes_lactinea.md
+  - file: new_articles/Platycranus_bicolor.md
   - file: new_articles/Castilleja_quirosii.md
   - file: new_articles/Orthemis_nodiplaga.md
   - file: new_articles/Vassobia_breviflora.md
+  - file: new_articles/Torenia_crustacea.md
   - file: new_articles/Leptinotarsa_defecta.md
   - file: new_articles/Lepanthes_trimerinx.md
+  - file: new_articles/Brachypera_zoilus.md
   - file: new_articles/Calyptridium_umbellatum.md
+  - file: new_articles/Pomatoschistus_flavescens.md
   - file: new_articles/Gloeophyllum_odoratum.md
   - file: new_articles/Podops_inunctus.md
   - file: new_articles/Thorectes_brullei.md
+  - file: new_articles/Astylidius_parvus.md
   - file: new_articles/Camponotus_rufipes.md
   - file: new_articles/Ancylometes_bogotensis.md
   - file: new_articles/Agalinis_communis.md
@@ -591,6 +648,7 @@ parts:
   - file: new_articles/Molorchus_minor.md
   - file: new_articles/Sphictostethus_calvus.md
   - file: new_articles/Melanargia_transcaspica.md
+  - file: new_articles/Tilesia_baccata.md
   - file: new_articles/Cnesterodon_decemmaculatus.md
   - file: new_articles/Alpaida_gallardoi.md
   - file: new_articles/Melochia_melissifolia.md
@@ -613,11 +671,13 @@ parts:
   - file: new_articles/Corvus_monedula.md
   - file: new_articles/Parapimelodus_valenciennis.md
   - file: new_articles/Dicyphoma_schaefferi.md
+  - file: new_articles/Testicularia_cyperi.md
   - file: new_articles/Platybunus_pinetorum.md
   - file: new_articles/Dendropanax_arboreus.md
   - file: new_articles/Rhynchium_oculatum.md
   - file: new_articles/Stenolophus_teutonus.md
   - file: new_articles/Aiouea_montana.md
+  - file: new_articles/Xenos_peckii.md
   - file: new_articles/Gentianopsis_ciliata.md
   - file: new_articles/Rhionaeschna_bonariensis.md
   - file: new_articles/Micrathena_plana.md
@@ -631,6 +691,7 @@ parts:
   - file: new_articles/Psittacara_holochlorus.md
   - file: new_articles/Lophosis_labeculata.md
   - file: new_articles/Euryops_abrotanifolius.md
+  - file: new_articles/Staphylinus_dimidiaticornis.md
   - file: new_articles/Justicia_pilosella.md
   - file: new_articles/Bupleurum_praealtum.md
   - file: new_articles/Schinus_longifolia.md
@@ -638,53 +699,60 @@ parts:
   - file: new_articles/Cuphea_carthagenensis.md
   - file: new_articles/Odontotarsus_robustus.md
   - file: new_articles/Veturius_standfussi.md
+  - file: new_articles/Callirhytis_lanata.md
   - file: new_articles/Pedicularis_foliosa.md
   - file: new_articles/Agonocheila_antipodum.md
   - file: new_articles/Coccinella_quinquepunctata.md
   - file: new_articles/Jaborosa_integrifolia.md
+  - file: new_articles/Polyphaga_aegyptiaca.md
   - file: new_articles/Agriotes_pilosellus.md
   - file: new_articles/Gyrocheilus_patrobas.md
   - file: new_articles/Priocnemis_conformis.md
   - file: new_articles/Monoclea_forsteri.md
   - file: new_articles/Sericomyia_bombiformis.md
+  - file: new_articles/Asphondylia_atriplicis.md
   - file: new_articles/Orobanche_flava.md
+  - file: new_articles/Tachyporus_hypnorum.md
   - file: new_articles/Verongula_reiswigi.md
   - file: new_articles/Pavonia_odorata.md
-  - file: new_articles/Lanius_corvinus.md
   - file: new_articles/Astydamia_latifolia.md
+  - file: new_articles/Vilerna_rugulosa.md
   - file: new_articles/Chrysolina_gypsophilae.md
   - file: new_articles/Picnomon_acarna.md
+  - file: new_articles/Trametes_betulina.md
   - file: new_articles/Pennithera_firmata.md
   - file: new_articles/Paederota_bonarota.md
   - file: new_articles/Limnephilus_auricula.md
+  - file: new_articles/Physcia_tenella.md
   - file: new_articles/Metapolybia_mesoamerica.md
   - file: new_articles/Helichrysum_luteoalbum.md
-  - file: new_articles/Acontia_trabealis.md
+  - file: new_articles/Betulapion_simile.md
+  - file: new_articles/Cyrpoptus_belfragei.md
   - file: new_articles/Ipomoea_murucoides.md
-  - file: new_articles/Lissachatina_fulica.md
   - file: new_articles/Peperomia_emarginella.md
   - file: new_articles/Nyssodesmus_python.md
   - file: new_articles/Lindernia_rotundifolia.md
-  - file: new_articles/Sporophila_funerea.md
   - file: new_articles/Cyphomyia_varipes.md
   - file: new_articles/Acromis_sparsa.md
   - file: new_articles/Veronica_decora.md
   - file: new_articles/Herpothallon_rubrocinctum.md
   - file: new_articles/Quedius_dilatatus.md
+  - file: new_articles/Stereum_lobatum.md
   - file: new_articles/Pyrgodera_armata.md
   - file: new_articles/Euphoria_schotti.md
   - file: new_articles/Biolleyana_costalis.md
   - file: new_articles/Deilelater_physoderus.md
   - file: new_articles/Strongylium_championi.md
   - file: new_articles/Elleanthus_purpureus.md
+  - file: new_articles/Pelvetia_canaliculata.md
   - file: new_articles/Crotalaria_grahamiana.md
   - file: new_articles/Pontederia_rotundifolia.md
   - file: new_articles/Lytorhynchus_ridgewayi.md
   - file: new_articles/Herbertia_lahue.md
+  - file: new_articles/Rhynchospora_corniculata.md
   - file: new_articles/Cnidoscolus_stimulosus.md
   - file: new_articles/Nyctaginia_capitata.md
   - file: new_articles/Phaeoparia_depressicornis.md
-  - file: new_articles/Neotamias_umbrinus.md
   - file: new_articles/Leukoma_crassicosta.md
   - file: new_articles/Asbolis_capucinus.md
   - file: new_articles/Tenthredo_omissa.md
@@ -692,6 +760,7 @@ parts:
   - file: new_articles/Luehea_seemannii.md
   - file: new_articles/Manicaria_saccifera.md
   - file: new_articles/Globularia_nudicaulis.md
+  - file: new_articles/Aurelia_marginalis.md
   - file: new_articles/Cryptocephalus_nitidus.md
   - file: new_articles/Merulius_tremellosus.md
   - file: new_articles/Xysticus_kochi.md
@@ -700,24 +769,30 @@ parts:
   - file: new_articles/Maytenus_ilicifolia.md
   - file: new_articles/Holcogaster_fibulata.md
   - file: new_articles/Torminalis_glaberrima.md
+  - file: new_articles/Oblada_melanurus.md
   - file: new_articles/Rhomphaea_urquharti.md
   - file: new_articles/Pheidole_obscurithorax.md
   - file: new_articles/Xiphydria_longicollis.md
   - file: new_articles/Modiolastrum_malvifolium.md
   - file: new_articles/Equus_asinus.md
-  - file: new_articles/Hetaerina_miniata.md
+  - file: new_articles/Allactaga_williamsi.md
   - file: new_articles/Cryptamorpha_desjardinsi.md
+  - file: new_articles/Parmotrema_hypotropum.md
+  - file: new_articles/Agallia_constricta.md
+  - file: new_articles/Architectonica_nobilis.md
   - file: new_articles/Triplaris_cumingiana.md
   - file: new_articles/Polyura_bharata.md
   - file: new_articles/Marasmius_torquescens.md
+  - file: new_articles/Polyteles_stevenii.md
+  - file: new_articles/Lepanthes_carunculigera.md
   - file: new_articles/Euselasia_cheles.md
+  - file: new_articles/Tagelus_plebeius.md
   - file: new_articles/Clytus_lama.md
   - file: new_articles/Leptotarsus_viridis.md
   - file: new_articles/Pterostichus_burmeisteri.md
   - file: new_articles/Lopheros_rubens.md
   - file: new_articles/Dufourea_ligulata.md
   - file: new_articles/Aceria_cephalonea.md
-  - file: new_articles/Limonium_puberulum.md
   - file: new_articles/Sargassum_fluitans.md
   - file: new_articles/Hyperchiria_nausica.md
   - file: new_articles/Plagiomnium_undulatum.md
@@ -751,6 +826,7 @@ parts:
   - file: new_articles/Chrysocoris_purpureus.md
   - file: new_articles/Micrathena_brevipes.md
   - file: new_articles/Micrathyria_atra.md
+  - file: new_articles/Sanguinaria_canadensis.md
   - file: new_articles/Magdalis_ruficornis.md
   - file: new_articles/Villa_hottentotta.md
   - file: new_articles/Johnrandallia_nigrirostris.md
@@ -762,11 +838,16 @@ parts:
   - file: new_articles/Nomia_westwoodi.md
   - file: new_articles/Hylesia_continua.md
   - file: new_articles/Anystis_baccarum.md
+  - file: new_articles/Brachythecium_rutabulum.md
   - file: new_articles/Scopalina_ruetzleri.md
+  - file: new_articles/Tipula_ludoviciana.md
   - file: new_articles/Rhinophora_lepida.md
+  - file: new_articles/Minuca_minax.md
   - file: new_articles/Pseudoscleropodium_purum.md
+  - file: new_articles/Orthotrichum_diaphanum.md
   - file: new_articles/Pauridiantha_paucinervis.md
   - file: new_articles/Sesbania_virgata.md
+  - file: new_articles/Andricus_caepula.md
   - file: new_articles/Sphingonotus_pachecoi.md
   - file: new_articles/Calyptridium_monospermum.md
   - file: new_articles/Agelas_sventres.md
@@ -782,7 +863,6 @@ parts:
   - file: new_articles/Miconia_crenata.md
   - file: new_articles/Polistes_veracrucis.md
   - file: new_articles/Ectima_thecla.md
-  - file: new_articles/Streptopelia_senegalensis.md
   - file: new_articles/Alpaida_tuonabo.md
   - file: new_articles/Cynips_quercusnubila.md
   - file: new_articles/Strephonota_elika.md
@@ -792,11 +872,15 @@ parts:
   - file: new_articles/Pochota_fendleri.md
   - file: new_articles/Cacoecimorpha_pronubana.md
   - file: new_articles/Eriophora_nephiloides.md
+  - file: new_articles/Calogaya_decipiens.md
   - file: new_articles/Ceratophysella_sigillata.md
   - file: new_articles/Pluchea_sagittalis.md
+  - file: new_articles/Rhynchodemus_sylvaticus.md
+  - file: new_articles/Anaspis_maculata.md
   - file: new_articles/Calamagrostis_viridiflavescens.md
   - file: new_articles/Micrathena_annulata.md
   - file: new_articles/Nalassus_laevioctostriatus.md
+  - file: new_articles/Trichonephila_fenestrata.md
   - file: new_articles/Ilyocoris_cimicoides.md
   - file: new_articles/Glabridorsum_stokesii.md
   - file: new_articles/Capparis_erythrocarpos.md
@@ -805,19 +889,26 @@ parts:
   - file: new_articles/Megafreya_sutrix.md
   - file: new_articles/Oospila_atopochlora.md
   - file: new_articles/Phrosia_albilabris.md
+  - file: new_articles/Gibbaranea_gibbosa.md
+  - file: new_articles/Archasia_belfragei.md
+  - file: new_articles/Cicindela_trifasciata.md
   - file: new_articles/Ruellia_morongii.md
   - file: new_articles/Passiflora_ciliata.md
+  - file: new_articles/Megatoma_undata.md
   - file: new_articles/Cleome_houtteana.md
   - file: new_articles/Phorbas_tenacior.md
   - file: new_articles/Pawiloma_victima.md
+  - file: new_articles/Chrysops_univittatus.md
   - file: new_articles/Cladius_grandis.md
   - file: new_articles/Negosiana_dualis.md
   - file: new_articles/Gymnetis_chalcipes.md
+  - file: new_articles/Acanalonia_servillei.md
   - file: new_articles/Alopecosa_barbipes.md
   - file: new_articles/Smerina_manoro.md
   - file: new_articles/Parodia_microsperma.md
   - file: new_articles/Microgramma_mortoniana.md
   - file: new_articles/Zephyranthes_bifida.md
+  - file: new_articles/Antigone_canadensis.md
   - file: new_articles/Murdannia_nudiflora.md
   - file: new_articles/Asteriscus_intermedius.md
   - file: new_articles/Ortilia_ithra.md
@@ -827,17 +918,16 @@ parts:
   - file: new_articles/Dendrobium_turbinatum.md
   - file: new_articles/Melanolophia_parma.md
   - file: new_articles/Camponotus_lespesii.md
-  - file: new_articles/Syricoris_lacunana.md
   - file: new_articles/Oxybelis_koehleri.md
   - file: new_articles/Clinopodium_alpinum.md
   - file: new_articles/Lestranicus_transpectus.md
   - file: new_articles/Megacollybia_platyphylla.md
   - file: new_articles/Acontia_titania.md
+  - file: new_articles/Curruca_nana.md
   - file: new_articles/Rhizostoma_octopus.md
   - file: new_articles/Otospermophilus_variegatus.md
   - file: new_articles/Petasites_paradoxus.md
   - file: new_articles/Ctenoptilum_vasava.md
-  - file: new_articles/Atheniella_flavoalba.md
   - file: new_articles/Solanum_pilcomayense.md
   - file: new_articles/Idaea_distinctaria.md
   - file: new_articles/Polypodium_interjectum.md
@@ -848,8 +938,10 @@ parts:
   - file: new_articles/Mestra_amymone.md
   - file: new_articles/Citrus_trifoliata.md
   - file: new_articles/Chilocorus_renipustulatus.md
+  - file: new_articles/Cenopis_diluticostana.md
   - file: new_articles/Pseudopolybia_compressa.md
   - file: new_articles/Xanthogramma_dives.md
+  - file: new_articles/Deraeocoris_lutescens.md
   - file: new_articles/Aplysina_lacunosa.md
   - file: new_articles/Urocentrum_turbo.md
   - file: new_articles/Phytolacca_tetramera.md
@@ -862,6 +954,7 @@ parts:
   - file: new_articles/Helichrysum_grandiflorum.md
   - file: new_articles/Eurybia_patrona.md
   - file: new_articles/Phyla_strigulosa.md
+  - file: new_articles/Orthosoma_brunneum.md
   - file: new_articles/Poa_iridifolia.md
   - file: new_articles/Vagrans_sinha.md
   - file: new_articles/Ipomoea_parasitica.md
@@ -872,27 +965,31 @@ parts:
   - file: new_articles/Dodecastichus_geniculatus.md
   - file: new_articles/Strymon_eurytulus.md
   - file: new_articles/Artystona_rugiceps.md
+  - file: new_articles/Esperanza_texana.md
+  - file: new_articles/Smilax_smallii.md
   - file: new_articles/Dilophus_pectoralis.md
-  - file: new_articles/Capraiellus_panzeri.md
   - file: new_articles/Holhymenia_histrio.md
   - file: new_articles/Roeseliana_roeselii.md
   - file: new_articles/Wattakaka_volubilis.md
   - file: new_articles/Hyponephele_interposita.md
   - file: new_articles/Leucanthemopsis_alpina.md
-  - file: new_articles/Arctia_plantaginis.md
   - file: new_articles/Osmia_bicornis.md
   - file: new_articles/Diabrotica_viridicollis.md
   - file: new_articles/Apteria_aphylla.md
   - file: new_articles/Asthenoctenus_borellii.md
+  - file: new_articles/Ixodes_frontalis.md
   - file: new_articles/Thesium_alpinum.md
   - file: new_articles/Aria_edulis.md
   - file: new_articles/Erigeron_quercifolius.md
   - file: new_articles/Magneuptychia_libye.md
+  - file: new_articles/Kearfottia_albifasciella.md
   - file: new_articles/Cicia_crocata.md
   - file: new_articles/Epiphile_orea.md
   - file: new_articles/Silpha_carinata.md
   - file: new_articles/Rifargia_causia.md
   - file: new_articles/Bulnesia_schickendantzii.md
+  - file: new_articles/Platyrhinus_resinosus.md
+  - file: new_articles/Solidago_mexicana.md
   - file: new_articles/Leptocentrus_taurus.md
   - file: new_articles/Gasteracantha_dalyi.md
   - file: new_articles/Tenthredo_campestris.md

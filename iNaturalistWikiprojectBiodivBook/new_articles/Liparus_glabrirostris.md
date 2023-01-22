@@ -2,28 +2,12 @@
 Liparus glabrirostris
 =====================
   
-[iNaturalist taxon id: 130707](https://www.inaturalist.org/taxa/130707)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/214725977/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/214726043/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/214726110/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/214726763/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/208775107/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/208775227/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/208775271/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/208775302/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/205562274/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/205562214/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/205562156/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/205562104/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/214725977/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/214726043/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/214726110/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/214726763/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/208775107/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/208775227/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/208775271/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/208775302/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/205562274/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/205562214/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/205562156/medium.jpg)  
-![Liparus glabrirostris](https://inaturalist-open-data.s3.amazonaws.com/photos/205562104/medium.jpg)
+[iNaturalist taxon id: 130707](https://www.inaturalist.org/taxa/130707)
+# Photos
+
+## by: Tobias Schönberg
+  
+![taxon191912441](https://inaturalist-open-data.s3.amazonaws.com/photos/205562274/medium.jpg)  
+![taxon191912443](https://inaturalist-open-data.s3.amazonaws.com/photos/205562214/medium.jpg)  
+![taxon191912444](https://inaturalist-open-data.s3.amazonaws.com/photos/205562156/medium.jpg)  
+![taxon191912446](https://inaturalist-open-data.s3.amazonaws.com/photos/205562104/medium.jpg)
