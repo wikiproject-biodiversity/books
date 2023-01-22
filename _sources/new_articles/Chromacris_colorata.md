@@ -2,31 +2,13 @@
 Chromacris colorata
 ===================
   
-[iNaturalist taxon id: 293457](https://www.inaturalist.org/taxa/293457)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/238173207/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/238173605/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/93996641/medium.jpeg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91578548/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579441/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579446/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579806/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91277238/medium.jpeg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91279329/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/238173207/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/238173605/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/93996641/medium.jpeg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91578548/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579441/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579446/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579806/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91277238/medium.jpeg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91279329/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/238173207/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/238173605/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/93996641/medium.jpeg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91578548/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579441/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579446/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91579806/medium.jpg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91277238/medium.jpeg)  
-![Chromacris colorata](https://inaturalist-open-data.s3.amazonaws.com/photos/91279329/medium.jpg)
+[iNaturalist taxon id: 293457](https://www.inaturalist.org/taxa/293457)
+# Taxonomy in Wikidata
+  
+![Chromacris colorata](../wikidata_schemas/Chromacris_colorata.gv.png)
+# Photos
+
+## by: Rodolfo Salinas Villarreal
+  
+![taxon85063844](https://inaturalist-open-data.s3.amazonaws.com/photos/91277238/medium.jpeg)  
+![taxon85064418](https://inaturalist-open-data.s3.amazonaws.com/photos/91279329/medium.jpg)

@@ -2,24 +2,9 @@
 Moehringia muscosa
 ==================
   
-[iNaturalist taxon id: 362351](https://www.inaturalist.org/taxa/362351)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/211800929/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/202491727/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/200700140/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/55833856/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/42607187/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/211800929/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/202491727/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/200700140/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/55833856/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/42607187/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/211800929/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/202491727/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/200700140/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/55833856/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/42607187/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/211800929/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/202491727/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/200700140/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/55833856/medium.jpeg)  
-![Moehringia muscosa](https://inaturalist-open-data.s3.amazonaws.com/photos/42607187/medium.jpeg)
+[iNaturalist taxon id: 362351](https://www.inaturalist.org/taxa/362351)
+# Photos
+
+## by: Tobias Schönberg
+  
+![taxon39073131](https://inaturalist-open-data.s3.amazonaws.com/photos/42607187/medium.jpeg)

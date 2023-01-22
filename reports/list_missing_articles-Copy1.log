@@ -25,6 +25,7 @@ import pandas as pd
 import mdutils
 import urllib.parse
 from wikidataintegrator import wdi_core
+import graphviz
 ------------------
 
 [0;31m---------------------------------------------------------------------------[0m

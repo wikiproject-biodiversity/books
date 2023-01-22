@@ -2,30 +2,13 @@
 Aphnaeus lilacinus
 ==================
   
-[iNaturalist taxon id: 739805](https://www.inaturalist.org/taxa/739805)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22519997/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520115/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22519999/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520003/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520009/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520013/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520016/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520021/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520025/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520032/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520042/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520047/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520055/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520063/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520070/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520076/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520082/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520087/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520095/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520106/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/22520111/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/21249076/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/21249072/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/21249067/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/21249070/medium.jpeg)  
-![Aphnaeus lilacinus](https://inaturalist-open-data.s3.amazonaws.com/photos/21249080/medium.jpeg)
+[iNaturalist taxon id: 739805](https://www.inaturalist.org/taxa/739805)
+# Photos
+
+## by: Vijay Barve
+  
+![taxon19458507](https://inaturalist-open-data.s3.amazonaws.com/photos/21249076/medium.jpeg)  
+![taxon19458506](https://inaturalist-open-data.s3.amazonaws.com/photos/21249072/medium.jpeg)  
+![taxon19458504](https://inaturalist-open-data.s3.amazonaws.com/photos/21249067/medium.jpeg)  
+![taxon19458505](https://inaturalist-open-data.s3.amazonaws.com/photos/21249070/medium.jpeg)  
+![taxon19458508](https://inaturalist-open-data.s3.amazonaws.com/photos/21249080/medium.jpeg)

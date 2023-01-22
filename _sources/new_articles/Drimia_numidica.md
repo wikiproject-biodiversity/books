@@ -2,40 +2,15 @@
 Drimia numidica
 ===============
   
-[iNaturalist taxon id: 565199](https://www.inaturalist.org/taxa/565199)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927494/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927392/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927329/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927319/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174805195/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687492/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687507/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687524/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687558/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684954/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684808/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684214/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927494/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927392/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927329/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927319/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174805195/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687492/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687507/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687524/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687558/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684954/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684808/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684214/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927494/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927392/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927329/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174927319/medium.jpeg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/174805195/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687492/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687507/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687524/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70687558/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684954/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684808/medium.jpg)  
-![Drimia numidica](https://inaturalist-open-data.s3.amazonaws.com/photos/70684214/medium.jpg)
+[iNaturalist taxon id: 565199](https://www.inaturalist.org/taxa/565199)
+# Taxonomy in Wikidata
+  
+![Drimia numidica](../wikidata_schemas/Drimia_numidica.gv.png)
+# Photos
+
+## by: Andra Waagmeester
+  
+![taxon163098265](https://inaturalist-open-data.s3.amazonaws.com/photos/174805195/medium.jpg)
+## by: Paul Braun
+  
+![taxon65627965](https://inaturalist-open-data.s3.amazonaws.com/photos/70684214/medium.jpg)

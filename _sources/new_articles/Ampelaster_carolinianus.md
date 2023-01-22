@@ -2,31 +2,15 @@
 Ampelaster carolinianus
 =======================
   
-[iNaturalist taxon id: 127046](https://www.inaturalist.org/taxa/127046)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/249717953/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/249717962/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594853/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594869/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594752/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779467/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779468/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779473/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779476/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/249717953/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/249717962/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594853/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594869/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594752/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779467/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779468/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779473/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779476/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/249717953/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/249717962/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594853/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594869/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/171594752/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779467/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779468/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779473/medium.jpeg)  
-![Ampelaster carolinianus](https://inaturalist-open-data.s3.amazonaws.com/photos/58779476/medium.jpeg)
+[iNaturalist taxon id: 127046](https://www.inaturalist.org/taxa/127046)
+# Taxonomy in Wikidata
+  
+![Ampelaster carolinianus](../wikidata_schemas/Ampelaster_carolinianus.gv.png)
+# Photos
+
+## by: Vijay Barve
+  
+![taxon54428154](https://inaturalist-open-data.s3.amazonaws.com/photos/58779467/medium.jpeg)  
+![taxon54428155](https://inaturalist-open-data.s3.amazonaws.com/photos/58779468/medium.jpeg)  
+![taxon54428156](https://inaturalist-open-data.s3.amazonaws.com/photos/58779473/medium.jpeg)  
+![taxon54428157](https://inaturalist-open-data.s3.amazonaws.com/photos/58779476/medium.jpeg)

@@ -2,24 +2,10 @@
 Heliocypha perforata
 ====================
   
-[iNaturalist taxon id: 561361](https://www.inaturalist.org/taxa/561361)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906677/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906749/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906785/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906803/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906818/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906830/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906972/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906977/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/250055/medium.JPG)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/250079/medium.JPG)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906677/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906749/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906785/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906803/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906818/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906830/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906972/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/64906977/medium.jpeg)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/250055/medium.JPG)  
-![Heliocypha perforata](https://inaturalist-open-data.s3.amazonaws.com/photos/250079/medium.JPG)
+[iNaturalist taxon id: 561361](https://www.inaturalist.org/taxa/561361)
+# Photos
+
+## by: Vijay Barve
+  
+![taxon214809](https://inaturalist-open-data.s3.amazonaws.com/photos/250055/medium.JPG)  
+![taxon214833](https://inaturalist-open-data.s3.amazonaws.com/photos/250079/medium.JPG)

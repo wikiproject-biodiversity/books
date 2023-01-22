@@ -2,28 +2,13 @@
 Euselasia cheles
 ================
   
-[iNaturalist taxon id: 533533](https://www.inaturalist.org/taxa/533533)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969564/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969572/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969573/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969574/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969575/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969577/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969624/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969578/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969579/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969580/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969581/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969582/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969564/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969572/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969573/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969574/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969575/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969577/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969624/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969578/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969579/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969580/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969581/medium.jpeg)  
-![Euselasia cheles](https://inaturalist-open-data.s3.amazonaws.com/photos/5969582/medium.jpeg)
+[iNaturalist taxon id: 533533](https://www.inaturalist.org/taxa/533533)
+# Photos
+
+## by: Vijay Barve
+  
+![taxon5672134](https://inaturalist-open-data.s3.amazonaws.com/photos/5969578/medium.jpeg)  
+![taxon5672135](https://inaturalist-open-data.s3.amazonaws.com/photos/5969579/medium.jpeg)  
+![taxon5672136](https://inaturalist-open-data.s3.amazonaws.com/photos/5969580/medium.jpeg)  
+![taxon5672137](https://inaturalist-open-data.s3.amazonaws.com/photos/5969581/medium.jpeg)  
+![taxon5672138](https://inaturalist-open-data.s3.amazonaws.com/photos/5969582/medium.jpeg)

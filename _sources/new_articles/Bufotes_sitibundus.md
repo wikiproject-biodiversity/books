@@ -2,32 +2,9 @@
 Bufotes sitibundus
 ==================
   
-[iNaturalist taxon id: 992002](https://www.inaturalist.org/taxa/992002)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/145711603/medium.jpg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/145712586/medium.jpg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/122744613/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/117213046/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/117211406/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/115556138/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/115555485/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/145711603/medium.jpg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/145712586/medium.jpg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/122744613/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/117213046/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/117211406/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/115556138/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/115555485/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/145711603/medium.jpg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/145712586/medium.jpg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/122744613/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/117213046/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/117211406/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/115556138/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/115555485/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/145711603/medium.jpg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/145712586/medium.jpg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/122744613/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/117213046/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/117211406/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/115556138/medium.jpeg)  
-![Bufotes sitibundus](https://inaturalist-open-data.s3.amazonaws.com/photos/115555485/medium.jpeg)
+[iNaturalist taxon id: 992002](https://www.inaturalist.org/taxa/992002)
+# Photos
+
+## by: Mohammad Amin Ghaffari
+  
+![taxon107814141](https://inaturalist-open-data.s3.amazonaws.com/photos/115555485/medium.jpeg)

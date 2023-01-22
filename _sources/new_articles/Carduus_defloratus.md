@@ -2,32 +2,12 @@
 Carduus defloratus
 ==================
   
-[iNaturalist taxon id: 448073](https://www.inaturalist.org/taxa/448073)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/212066949/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/202261597/medium.jpg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/201078908/medium.jpg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/147503941/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/141445383/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/94749765/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/52653801/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/212066949/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/202261597/medium.jpg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/201078908/medium.jpg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/147503941/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/141445383/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/94749765/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/52653801/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/212066949/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/202261597/medium.jpg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/201078908/medium.jpg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/147503941/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/141445383/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/94749765/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/52653801/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/212066949/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/202261597/medium.jpg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/201078908/medium.jpg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/147503941/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/141445383/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/94749765/medium.jpeg)  
-![Carduus defloratus](https://inaturalist-open-data.s3.amazonaws.com/photos/52653801/medium.jpeg)
+[iNaturalist taxon id: 448073](https://www.inaturalist.org/taxa/448073)
+# Photos
+
+## by: Tobias Schönberg
+  
+![taxon48653405](https://inaturalist-open-data.s3.amazonaws.com/photos/52653801/medium.jpeg)
+## by: Dario Taraborelli
+  
+![taxon137688639](https://inaturalist-open-data.s3.amazonaws.com/photos/147503941/medium.jpeg)

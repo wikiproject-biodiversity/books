@@ -2,31 +2,15 @@
 Pavonia sepium
 ==============
   
-[iNaturalist taxon id: 467158](https://www.inaturalist.org/taxa/467158)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892230/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892224/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892223/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313536/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313558/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313571/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313583/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/37279265/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/37230011/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892230/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892224/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892223/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313536/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313558/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313571/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313583/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/37279265/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/37230011/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892230/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892224/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/240892223/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313536/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313558/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313571/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/179313583/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/37279265/medium.jpeg)  
-![Pavonia sepium](https://inaturalist-open-data.s3.amazonaws.com/photos/37230011/medium.jpeg)
+[iNaturalist taxon id: 467158](https://www.inaturalist.org/taxa/467158)
+# Photos
+
+## by: Anabela Plos
+  
+![taxon33932488](https://inaturalist-open-data.s3.amazonaws.com/photos/37230011/medium.jpeg)
+## by: Malena Lorente
+  
+![taxon167287408](https://inaturalist-open-data.s3.amazonaws.com/photos/179313536/medium.jpeg)  
+![taxon167287421](https://inaturalist-open-data.s3.amazonaws.com/photos/179313558/medium.jpeg)  
+![taxon167287430](https://inaturalist-open-data.s3.amazonaws.com/photos/179313571/medium.jpeg)  
+![taxon167287435](https://inaturalist-open-data.s3.amazonaws.com/photos/179313583/medium.jpeg)

@@ -2,40 +2,13 @@
 Microgramma mortoniana
 ======================
   
-[iNaturalist taxon id: 564156](https://www.inaturalist.org/taxa/564156)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897226/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897211/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897191/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240845148/medium.jpg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/155432120/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/56897690/medium.jpg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/56885546/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/37209861/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/37209993/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897226/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897211/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897191/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240845148/medium.jpg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/155432120/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/56897690/medium.jpg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/56885546/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/37209861/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/37209993/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897226/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897211/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897191/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240845148/medium.jpg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/155432120/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/56897690/medium.jpg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/56885546/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/37209861/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/37209993/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897226/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897211/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240897191/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/240845148/medium.jpg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/155432120/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/56897690/medium.jpg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/56885546/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/37209861/medium.jpeg)  
-![Microgramma mortoniana](https://inaturalist-open-data.s3.amazonaws.com/photos/37209993/medium.jpeg)
+[iNaturalist taxon id: 564156](https://www.inaturalist.org/taxa/564156)
+# Photos
+
+## by: Anabela Plos
+  
+![taxon33914519](https://inaturalist-open-data.s3.amazonaws.com/photos/37209861/medium.jpeg)  
+![taxon33914635](https://inaturalist-open-data.s3.amazonaws.com/photos/37209993/medium.jpeg)
+## by: Malena Lorente
+  
+![taxon52654570](https://inaturalist-open-data.s3.amazonaws.com/photos/56885546/medium.jpeg)

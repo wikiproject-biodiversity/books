@@ -2,28 +2,13 @@
 Inocybe lanuginosa
 ==================
   
-[iNaturalist taxon id: 127548](https://www.inaturalist.org/taxa/127548)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165131175/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165131193/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165131218/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165130690/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165130708/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165130728/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165129881/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165129905/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165129931/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165129962/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/164010964/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/164010987/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165131175/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165131193/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165131218/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165130690/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165130708/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165130728/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165129881/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165129905/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165129931/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/165129962/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/164010964/medium.jpeg)  
-![Inocybe lanuginosa](https://inaturalist-open-data.s3.amazonaws.com/photos/164010987/medium.jpeg)
+[iNaturalist taxon id: 127548](https://www.inaturalist.org/taxa/127548)
+# Taxonomy in Wikidata
+  
+![Inocybe lanuginosa](../wikidata_schemas/Inocybe_lanuginosa.gv.png)
+# Photos
+
+## by: Tobias Schönberg
+  
+![taxon153069954](https://inaturalist-open-data.s3.amazonaws.com/photos/164010964/medium.jpeg)  
+![taxon153069976](https://inaturalist-open-data.s3.amazonaws.com/photos/164010987/medium.jpeg)

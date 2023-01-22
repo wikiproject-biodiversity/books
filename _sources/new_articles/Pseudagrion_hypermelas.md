@@ -2,36 +2,10 @@
 Pseudagrion hypermelas
 ======================
   
-[iNaturalist taxon id: 110816](https://www.inaturalist.org/taxa/110816)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131894/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131895/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131896/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131891/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131892/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131893/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131888/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131889/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131894/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131895/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131896/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131891/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131892/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131893/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131888/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131889/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131894/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131895/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131896/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131891/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131892/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131893/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131888/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131889/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131894/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131895/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131896/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131891/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131892/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131893/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131888/medium.JPG)  
-![Pseudagrion hypermelas](https://inaturalist-open-data.s3.amazonaws.com/photos/1131889/medium.JPG)
+[iNaturalist taxon id: 110816](https://www.inaturalist.org/taxa/110816)
+# Photos
+
+## by: Vijay Barve
+  
+![taxon1039969](https://inaturalist-open-data.s3.amazonaws.com/photos/1131888/medium.JPG)  
+![taxon1039970](https://inaturalist-open-data.s3.amazonaws.com/photos/1131889/medium.JPG)

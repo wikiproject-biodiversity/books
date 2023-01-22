@@ -2,44 +2,12 @@
 Petasites paradoxus
 ===================
   
-[iNaturalist taxon id: 130502](https://www.inaturalist.org/taxa/130502)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/210629535/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/210119830/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/198680351/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581989/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581637/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581509/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/49241979/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/47137672/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/45342251/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/42696500/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/210629535/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/210119830/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/198680351/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581989/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581637/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581509/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/49241979/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/47137672/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/45342251/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/42696500/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/210629535/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/210119830/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/198680351/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581989/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581637/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581509/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/49241979/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/47137672/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/45342251/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/42696500/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/210629535/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/210119830/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/198680351/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581989/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581637/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/195581509/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/49241979/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/47137672/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/45342251/medium.jpeg)  
-![Petasites paradoxus](https://inaturalist-open-data.s3.amazonaws.com/photos/42696500/medium.jpeg)
+[iNaturalist taxon id: 130502](https://www.inaturalist.org/taxa/130502)
+# Taxonomy in Wikidata
+  
+![Petasites paradoxus](../wikidata_schemas/Petasites_paradoxus.gv.png)
+# Photos
+
+## by: Tobias Schönberg
+  
+![taxon39158542](https://inaturalist-open-data.s3.amazonaws.com/photos/42696500/medium.jpeg)
