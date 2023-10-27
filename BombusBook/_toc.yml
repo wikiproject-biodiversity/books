@@ -1,0 +1,44 @@
+format: jb-book
+parts:
+- caption: iNaturalist species not described on en.wikipedia.org
+  chapters:
+  - file: new_articles/Bombus_rubicundus.md
+  - file: new_articles/Bombus_pseudobaicalensis.md
+  - file: new_articles/Bombus_laesus.md
+  - file: new_articles/Bombus_opifex.md
+  - file: new_articles/Bombus_wilmattae.md
+  - file: new_articles/Bombus_excellens.md
+  - file: new_articles/Bombus_niveatus.md
+  - file: new_articles/Bombus_melaleucus.md
+  - file: new_articles/Bombus_robustus.md
+  - file: new_articles/Bombus_bicoloratus.md
+  - file: new_articles/Bombus_handlirschi.md
+  - file: new_articles/Bombus_bellicosus.md
+  - file: new_articles/Bombus_deuteronymus.md
+  - file: new_articles/Bombus_rufofasciatus.md
+  - file: new_articles/Bombus_zonatus.md
+  - file: new_articles/Bombus_fragrans.md
+  - file: new_articles/Bombus_terrestris_audax.md
+  - file: new_articles/Bombus_patagiatus.md
+  - file: new_articles/Bombus_modestus.md
+  - file: new_articles/Bombus_pascuorum_mniorum.md
+  - file: new_articles/Bombus_senex.md
+  - file: new_articles/Bombus_saltuarius.md
+  - file: new_articles/Bombus_tunicatus.md
+  - file: new_articles/Bombus_pascuorum_sparreanus.md
+  - file: new_articles/Bombus_festivus.md
+  - file: new_articles/Bombus_sonani.md
+  - file: new_articles/Bombus_pascuorum_moorselensis.md
+  - file: new_articles/Bombus_volucelloides.md
+  - file: new_articles/Thoracobombus.md
+  - file: new_articles/Bombus_ladakhensis.md
+  - file: new_articles/Bombus_sibiricus.md
+  - file: new_articles/Bombus_melanurus.md
+  - file: new_articles/Bombus_haematurus.md
+  - file: new_articles/Bombus_formosellus.md
+  - file: new_articles/Bombus_soroeensis_proteus.md
+  - file: new_articles/Bombus_sporadicus.md
+  - file: new_articles/Bombus_schrencki.md
+  - file: new_articles/Bombus_hortulanus.md
+  - file: new_articles/Bombus_diversus.md
+root: intro
